@@ -1,4 +1,4 @@
-## CodeBook.md
+## CodeBook
 This defines the variables used in the calculation of the tidy data set in the run_analysis.r script.  Details of the raw data set can be found in the file features.txt in the downloaded file.  The are 68 columns.  Columns 1 and 2 are factors (subject and activity) and 3-68 are measurements (measurements have been normalized so they are unitless).  
 
 * subject
